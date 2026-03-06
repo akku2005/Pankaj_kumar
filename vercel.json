@@ -1,8 +1,6 @@
 {
   "buildCommand": "",
   "public": "/",
-  "env": {},
-  "functions": {},
   "rewrites": [
     {
       "source": "/(.*)",
