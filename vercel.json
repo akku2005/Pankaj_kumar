@@ -1,6 +1,5 @@
 {
   "buildCommand": "",
-  "public": "/",
   "rewrites": [
     {
       "source": "/(.*)",
